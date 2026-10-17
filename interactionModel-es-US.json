@@ -1,0 +1,49 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "cristalina estereo",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "ReproducirIntent",
+          "slots": [],
+          "samples": [
+            "pon la radio",
+            "pon cristalina",
+            "pon cristalina estereo",
+            "reproduce la radio",
+            "reproduce cristalina estereo",
+            "enciende la radio",
+            "inicia la transmision",
+            "quiero escuchar cristalina",
+            "pon la emisora",
+            "pon la emisora cristalina"
+          ]
+        }
+      ]
+    }
+  }
+}
